@@ -17,5 +17,5 @@ get as accurate as possible for fabric wetness detection so that a machine or sy
 
 **Future Work**
 
-1. We will try to build a model of our own to get a more precise prediction
-2. We will try to implement this in a real-world application
+1. We will try to build a model of our own to get a more precise prediction.
+2. We will try to implement this in a real-world application.
