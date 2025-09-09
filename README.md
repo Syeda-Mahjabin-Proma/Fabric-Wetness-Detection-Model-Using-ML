@@ -1,6 +1,6 @@
 ****Abstract****: 
 
-This is a machine-learning project to detect fabric wetness based on fabric humidity, fabric temperature, and room humidity and temperature. 
+This is a Machine Learning project to detect fabric wetness based on fabric humidity, fabric temperature, and room humidity and temperature. 
 
 
 **Background**
